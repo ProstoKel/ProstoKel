@@ -4,5 +4,5 @@
 - Пишет ботов/разную фигню на Node JS
 # Соц. сети
 - YouTube `https://www.youtube.com/channel/UCZRHmdboFKJnueAdCub4Hkg`
-- Twitter `@KelSimply21`
+- Twitter `@KelSimply2021`
 - Discord `Simply Kel#4366`, `Simply Kel#4985`
